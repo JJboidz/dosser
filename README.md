@@ -11,6 +11,6 @@ $ chmod +x requirements.sh
 
 $ ./requirements.sh
 
-$ dosser [options] <IP>
+$ dosser [options] [IP]
 
 ---
